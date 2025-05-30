@@ -1,16 +1,31 @@
-## Hi there 👋
+Full-Stack Developer
 
-<!--
-**JackScottow/JackScottow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack
+----------
 
-Here are some ideas to get you started:
+**Frontend**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   JavaScript (ES6+), TypeScript
+-   React, Next.js, Redux
+-   D3.js, Chart.js, Data Visualization
+-   HTML5, CSS3, Sass/SCSS
+-   Tailwind CSS, Bootstrap
+-   Responsive Design, Progressive Web Apps
+
+**Backend & Tools**
+
+-   Node.js, Express.js
+-   RESTful APIs, GraphQL
+-   WebSocket, Real-time Systems
+-   MongoDB, PostgreSQL
+-   CLI Development, Automation Scripts
+-   Webpack, Vite, Build Tools
+
+**DevOps & Deployment**
+
+-   Git, GitHub Actions
+-   Docker, Containerization
+-   Vercel, Netlify, AWS
+-   CI/CD Pipelines
+-   Testing (Jest, Cypress)
+-   Performance Optimization
